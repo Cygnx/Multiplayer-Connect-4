@@ -1,5 +1,7 @@
 # Multiplayer-Connect-4
 
+![My image](http://i.imgur.com/ru7vnbO.png)
+
 Made with NodeJs + Socket.io + Two.js
 
 Fully functional replica of the classic connect 4 board game.
